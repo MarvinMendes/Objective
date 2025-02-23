@@ -12,6 +12,10 @@ public class RequisicaoTransacaoDto {
 
 	
 
+	public RequisicaoTransacaoDto() {
+		super();
+	}
+
 	public BigDecimal getValor() {
 		return valor;
 	}

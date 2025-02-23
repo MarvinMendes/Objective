@@ -55,7 +55,7 @@ public class ContaService {
 		if(repository.findById(conta).isPresent()) {
 			return repository.findById(conta).get();			
 		}
-		throw new ContaInexistentesException() ;
+		throw new ContaInexistentesException();
 		
 	}
 

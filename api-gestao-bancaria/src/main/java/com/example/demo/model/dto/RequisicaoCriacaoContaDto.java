@@ -29,6 +29,10 @@ public class RequisicaoCriacaoContaDto {
 	public void setSaldoInicial(BigDecimal saldoInicial) {
 		this.saldoInicial = saldoInicial;
 	}
+
+	public RequisicaoCriacaoContaDto() {
+		super();
+	}
 	
 	
 	
