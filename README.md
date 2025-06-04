@@ -1,4 +1,4 @@
-Esta é uma API de gestão financeira desenvolvida como parte de um teste proposto pela Objective. A API permite gerenciar contas e realizar transações financeiras, além de consultar o histórico de transações de uma conta.
+Esta é uma API de gestão financeira. A API permite gerenciar contas e realizar transações financeiras, além de consultar o histórico de transações de uma conta.
 
 Endpoints
 
